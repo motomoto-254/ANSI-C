@@ -4,5 +4,5 @@
 
 int main(){
     printf("hello, moto");
-    printf("\c");
+    printf("\t");
 }
